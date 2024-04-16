@@ -1,0 +1,5 @@
+html .theme-entry label.input-control.radio .input-control-img,.theme-entry label.input-control.checkbox .input-control-img {
+    display: none;
+    width: 0;
+    height: 0
+}
